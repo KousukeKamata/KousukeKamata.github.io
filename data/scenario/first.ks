@@ -32,7 +32,7 @@ _　　　　　　　ゲーム開始です。[l][er]
 
 [current layer = message0]
 [anim layer=message0 time="100" opacity="0"]
-[playbgm  storage="bgm_maoudamashii_piano32.ogg" volume="30"]
+[playbgm  storage="bgm_maoudamashii_piano32.mp3" volume="30"]
 
 *problem
 [nowait]
