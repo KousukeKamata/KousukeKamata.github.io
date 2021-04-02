@@ -333,7 +333,7 @@
 [endchoice]
 *男悲鳴転落
 [beginchoice mes = '男が悲鳴をあげたのは転落したから？']
-[showask target="a"]
+[showask target="男悲鳴転落a"]
 [endchoice]
 
 *男同僚仲良しa
